@@ -26,6 +26,8 @@
 
 #include "CMasterList.h"
 
+#include <functional> //without .h
+
 #include "CLogFile.h"
 
 /*static*/ bool DummyReceiveHandler( const char *, unsigned int, void * )

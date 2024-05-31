@@ -774,6 +774,8 @@ namespace SharedUtility
 			0x189BB75A,//Skidrow 2
 			0x2F388D11,//Skidrow 3
 			0xAE196A1E,//M2MP patched one
+			0xDDB8656E,
+			0xA86B20C3,
 		};
 		int length = sizeof(signatures) / sizeof(*signatures);
 
